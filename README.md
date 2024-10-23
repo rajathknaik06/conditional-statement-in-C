@@ -1,2 +1,2 @@
 # conditional-statement-in-C
-by using switch 
+by using switch in HACKER RANK
